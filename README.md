@@ -1,4 +1,4 @@
-# .github
+# Helpful Places
 
 We believe the ways places are designed and operated – and the technologies within them – should be helpful and empowering for people and their communities.
 
